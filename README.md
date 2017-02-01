@@ -46,7 +46,7 @@ many years of experience and are claiming many years of software engineering exp
 
 If you have many years of software/web development experience, note that large software companies like Google, Amazon,
 Facebook and Microsoft software engineering as different from software/web development, and they require computer science knowledge.
-=======
+
 I've pared down what you need to know from what Yegge recommends. I've altered Yegge's requirements
 from information received from my contact at Google. This is meant for **new software engineers** or those switching from
 software/web development to software engineering (where computer science knowledge is required). If you have
